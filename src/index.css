@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Erica+One&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background-svg {
+  background-image: url("../../assets/circular.svg");
+}
+
+/* Tailwind CSS (e.g., in a global CSS file or as Tailwind CSS custom classes) */
+/* Global CSS or in a specific CSS file */
+.satvik-text {
+  background: linear-gradient(90deg, #48AA80 26%, #48AA80 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  opacity: 0.9;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* .satvik-text-dark {
+  background: linear-gradient(90deg, #22a26b 26%, #139d64 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  opacity: 0.9;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+} */
+

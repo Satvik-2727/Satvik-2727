@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="vvvortex-grad">
+      <stop stop-color="#48aa80" offset="0%"></stop>
+      <stop stop-color="hsl(167, 52%, 78%)" offset="100%"></stop>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#vvvortex-grad)" fill="none" stroke-linecap="round">
+    <circle r="28" cx="32" cy="32" stroke-width="2" stroke-dasharray="6 4" transform="rotate(45, 32, 32)" opacity="0.8"></circle>
+    <circle r="20" cx="32" cy="32" stroke-width="2" stroke-dasharray="6 4" transform="rotate(90, 32, 32)" opacity="0.8"></circle>
+    <circle r="12" cx="32" cy="32" stroke-width="2" stroke-dasharray="6 4" transform="rotate(135, 32, 32)" opacity="0.8"></circle>
+  </g>
+</svg>
